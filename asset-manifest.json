@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sus_simulator/static/css/main.256f0245.chunk.css",
+    "main.js": "/sus_simulator/static/js/main.6bf39069.chunk.js",
+    "main.js.map": "/sus_simulator/static/js/main.6bf39069.chunk.js.map",
+    "runtime-main.js": "/sus_simulator/static/js/runtime-main.a8aeb032.js",
+    "runtime-main.js.map": "/sus_simulator/static/js/runtime-main.a8aeb032.js.map",
+    "static/js/2.1cc8e975.chunk.js": "/sus_simulator/static/js/2.1cc8e975.chunk.js",
+    "static/js/2.1cc8e975.chunk.js.map": "/sus_simulator/static/js/2.1cc8e975.chunk.js.map",
+    "index.html": "/sus_simulator/index.html",
+    "precache-manifest.2c1413a84e58ddc49c4036fcde8a6ae6.js": "/sus_simulator/precache-manifest.2c1413a84e58ddc49c4036fcde8a6ae6.js",
+    "service-worker.js": "/sus_simulator/service-worker.js",
+    "static/css/main.256f0245.chunk.css.map": "/sus_simulator/static/css/main.256f0245.chunk.css.map",
+    "static/media/susIco.png": "/sus_simulator/static/media/susIco.0ac2a766.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8aeb032.js",
+    "static/js/2.1cc8e975.chunk.js",
+    "static/css/main.256f0245.chunk.css",
+    "static/js/main.6bf39069.chunk.js"
+  ]
+}
