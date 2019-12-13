@@ -138,9 +138,10 @@ const Diagnostico = () => {
     };
 
     if(finished)
-        return(
-            <h1>Denge</h1>
-        );
+        if( (new Date().getTime())/2 == 0 )
+            return(<h1>Denge</h1>);
+        else
+            return(<h1>Virose</h1>);
     
     return (
         
