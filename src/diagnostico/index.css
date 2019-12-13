@@ -1,0 +1,44 @@
+h3{
+    color: azure;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+.sintomas{
+    list-style-type: decimal;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+.sintomas li{
+    color: #ff000a;
+    text-shadow: 0px 0px 2px #000;
+}
+.diag{
+    display: flex;
+    flex-direction: row;
+}
+.diag .col1{
+    flex: 1;
+}
+.diag .col2{
+    flex: 2;
+}
+button{
+    cursor: pointer;
+    border: 3px solid #044000;
+    border-radius: 5px;
+    background: #0d8600;
+    color: #fff;
+    padding: 9px 25px;
+    font-size: 15px;
+    margin-top: 20px;
+    transition-duration: 0.5s;
+}
+button:hover{
+    background: #19ff00;
+    color: black;
+}
